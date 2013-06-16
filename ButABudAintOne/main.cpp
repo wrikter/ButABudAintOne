@@ -4,7 +4,7 @@
 
 int main( int argv, char* argc )
 {
-    int NUM_BOTTLES = 5;
+    int NUM_BOTTLES = 99;
 
     BottleManager bm( NUM_BOTTLES );
 
